@@ -34,8 +34,8 @@ public class Main {
             }
 
             if (i > 0) {
-                double average = (double) suma / i;
-                System.out.println("Promedio: " + average);
+                double promedio = (double) suma / i;
+                System.out.println("Promedio: " + promedio);
                 System.out.println("Número mayor: " + maximo);
                 System.out.println("Número menor: " + minimo);
             } else {
